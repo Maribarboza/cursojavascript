@@ -1,10 +1,10 @@
 # Curso de JavaScript
-.mensagens na tela de forma interativa
+Mensagens na tela de forma interativa
 
-.variáveis no desenvolvimento de software
+Variáveis no desenvolvimento de software
 
-.desenvolvimento seguindo boas práticas de programação
+Desenvolvimento seguindo boas práticas de programação
 
-.Desenvolva uma aplicação
+Desenvolva uma aplicação
 
-.adaptações de soluções desenvolvidas pela linguagem em seus programas de software
+Adaptações de soluções desenvolvidas pela linguagem em seus programas de software
