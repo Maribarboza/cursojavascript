@@ -1,4 +1,4 @@
-# curso de JavaScript
+# Curso de JavaScript
 .mensagens na tela de forma interativa
 .variáveis no desenvolvimento de software
 .desenvolvimento seguindo boas práticas de programação
